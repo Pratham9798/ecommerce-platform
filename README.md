@@ -26,7 +26,7 @@ E-Shop is a dynamic and responsive e-commerce platform built with React.js, Tail
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-platform.git
+   git clone https://github.com/Pratham9798/ecommerce-platform.git
    cd ecommerce-platform
 
 Install dependencies:
